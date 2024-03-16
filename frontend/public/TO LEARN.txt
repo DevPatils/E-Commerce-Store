@@ -1,0 +1,4 @@
+Things to learn while making this project 
+
+1. Routes
+2. Context API
